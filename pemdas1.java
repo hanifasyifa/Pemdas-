@@ -6,6 +6,8 @@
 //     public static void main(String[] args) {
 //         //Output, Input, Operasi Aritmatika (+-/*, %, ++, +-dst.), Math.sqrt, printf
 
+//         // Comment Line : "Ctrl + /"
+
 //         // Output
 //         // System.out.println("Halo! Nama saya Adi");
 //         // System.out.println(16.7);
@@ -99,14 +101,15 @@
 
 //         //printf
 //         //bisa batesin angka di belakang koma buat desimal
-//         String nama = "Nisriina";
+//         String nama = "Icha";
 //         int nilai = 90;
-//         float rataRata = 98.7825f;
+//         float rataRata = 98.7825f; // jangan lupa beru f fibelakang tipe data float
 //         System.out.printf("Nama saya adalah %s\n", nama);
 //         System.out.printf("Nilai saya adalah %d\n", nilai);
 //         System.out.printf("Rata-rata saya adalaah %.2f\n", rataRata);
 //         System.out.printf("Nama saya adalah %s, nilai saya %d, dan rata rata saya %.2f\n", nama, 90, rataRata);
 
+//         \n : untuk membuat line baru
 //     }
 
 // }
